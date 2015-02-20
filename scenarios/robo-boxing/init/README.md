@@ -1,6 +1,6 @@
 Robo+Boxing
 ===========
-Duck, juke, hook and jab. Your AI can respond to events like `incomingLeftJab` and respond with punches like `jukeRight()`, but beware the `fakeLeftJeb()` and `rightUppoercut()` combo!.
+Duck, juke, hook and jab. Your AI can respond to events like `incomingLeftJab` and respond with punches like `jukeRight()`, but beware the `fakeLeftJeb()` and `rightUppoercut()` combo!
 
 Event API
 ---------
